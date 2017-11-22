@@ -1,0 +1,36 @@
+body {
+	background-color: #FFFFFF;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+p {
+	color: black;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+.div_seccion {
+	padding-top: 15px;
+}
+
+.lista, li>a {
+	color: black;
+	text-decoration-line: none;
+}
+
+.boton {
+	margin-top: 15px;
+	background-color: black;
+	color: #563D7C;
+	font-weight: bold;
+	text-align:center;
+	margin-left: 40px;
+}
+
+.imagen_seccion {
+	padding-top: 15px;
+}
