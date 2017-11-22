@@ -40,7 +40,7 @@
 // }
 
 function section_one() {
-	document.getElementById('section_one').style.display = 'flex';
+	document.getElementById('section_one').style.display = 'block';
 	document.getElementById('section_two').style.display = 'none';
 	document.getElementById('section_three').style.display = 'none';
 	document.getElementById('section_four').style.display = 'none';
